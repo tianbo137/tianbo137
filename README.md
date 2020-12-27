@@ -1,4 +1,4 @@
-[Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)   
+[Data Science Project Portfolio](https://github.com/tianbo137/My_Data_Projects) • [Blog](https://tianbo137.github.io/)   
 
 ### Current Foci:
 - 🧬 Computational genomics research leveraging deep learning to find DNA variants that are predictive of phenotypic traits
@@ -6,8 +6,6 @@
 - 💰 Leading and collaborating with an algorithmic trading 👯 "dream team" 
 - 💻 AI research @ [ApTSi]
 
-[Jie Yuan]: https://www.linkedin.com/in/jie-yuan-03429973/
-[ApTSi]: https://www.linkedin.com/company/aptsi/
 
 💬 Ask me about [the simulation](https://youtu.be/ZFID_rgzE_Y).
 
