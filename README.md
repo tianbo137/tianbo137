@@ -1,6 +1,4 @@
 
-Hi there 👋 This is Bo.
-
 [Data Science Project Portfolio](https://github.com/tianbo137/My_Data_Projects) • [Personal Blog](https://tianbo137.github.io/)  • [Linkedin](https://www.linkedin.com/in/tianbo137/)
 
 ### Current Foci:
