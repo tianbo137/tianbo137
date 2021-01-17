@@ -14,5 +14,11 @@
 
 ### More Info
 
-![* [My Data Portfolio]](https://github.com/tianbo137/My_Data_Portfolio) | 
+- ![[My Data Portfolio]](https://github.com/tianbo137/My_Data_Portfolio) 
+- ![]
 
+<div>
+    <a href="https://github.com/tianbo137/My_Data_Portfolio" target="_blank" rel="noreferrer"><img width="50" alt="portfolio" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+    <a href="https://www.linkedin.com/in/tianbo137/" target="_blank" rel="noreferrer"><img width="50" alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://www.instagram.com/ikim91/" target="_blank" rel="noreferrer"><img width="50" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+</div>
