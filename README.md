@@ -14,5 +14,5 @@
 
 ### More Info
 
-![[My Data Portfolio]](https://github.com/tianbo137/My_Data_Portfolio) | 
+![- [My Data Portfolio]](https://github.com/tianbo137/My_Data_Portfolio) | 
 
