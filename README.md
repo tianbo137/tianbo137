@@ -7,7 +7,7 @@
 
 ### Current Foci:
 - Collaborating with Data Scientists at CrwodDoing to complete a MVP for medicinal-food product and deploy the product on Microsoft Azure to help potential patients 
-- Understanding the effectiveness of various supervised/unsupervised anomaly detection algorithms
+- Learning more about building cloud data pipeline and machine learning deployment
 - Working with financial data using algorithmic trading
 
 
