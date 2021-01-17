@@ -7,7 +7,7 @@
 
 ### Current Foci:
 - Collaborating with Data Scientists at CrwodDoing to complete a MVP for medicinal-food product and deploy the product on Microsoft Azure to help potential patients 
-- Learning more about building cloud data pipeline and machine learning deployment
+- Learning more about building industry level data pipeline and machine learning model deployment
 - Working with financial data using algorithmic trading
 
 
