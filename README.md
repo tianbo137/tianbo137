@@ -5,10 +5,10 @@
 - On a life-long journey of trying to learn everything
 
 
-### Current Foci:
-- Collaborating with Data Scientists at CrwodDoing to complete a MVP for medicinal-food product and deploy the product on Microsoft Azure to help potential patients 
-- Learning more about building industry level data pipeline and machine learning model deployment
-- Working with financial data using algorithmic trading
+### Recent Interest:
+- Collaborating with Data Scientists at CrwodDoing to complete a MVP for medicinal-food product recommendation system and deploy it on Microsoft Azure to help potential patients 
+- Learning more about building industry level data pipeline and machine learning model deployment on cloud environment
+- Hands-on understanding of financial data and algorithmic trading 
 
 
 
