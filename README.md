@@ -12,4 +12,4 @@
 
 ### More About Me:
 
-[My Data Science Portfolio](https://github.com/tianbo137/My_Data_Portfolio)   |   [Github](https://github.com/tianbo137/tianbo137)   | [LinkedIn](https://www.linkedin.com/in/tianbo137)
+[Data Science Portfolio](https://github.com/tianbo137/My_Portfolio)   |   [Github](https://github.com/tianbo137/tianbo137)   | [LinkedIn](https://www.linkedin.com/in/tianbo137)
