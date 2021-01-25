@@ -1,7 +1,7 @@
  Hi there! My name is Bo Tian.
  
  ### I am a Data Scientist
-- Currently looking for full-time work opportunities in the field
+- Currently looking for full-time work opportunities in the data science field
 - On a life-long journey of trying to learn everything
 
 
@@ -12,7 +12,7 @@
 
 
 
-### More Info:
+### More About Me:
 
 <div>
   <a href="https://github.com/tianbo137/My_Data_Portfolio" target="_blank" rel="noreferrer"><img width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
