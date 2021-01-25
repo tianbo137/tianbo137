@@ -8,7 +8,7 @@
 
 
 
-### &#x260e;  More Info:
+### &#x260e; Find More:
 
 - [Data Science Portfolio](https://github.com/tianbo137/My_Portfolio)     
 - [Personal Blog](https://tianbo137.github.io/) 
