@@ -1,4 +1,4 @@
- Hi there! My name is Bo Tian.
+ Hi there! This is Bo Tian.
  
 ### Recent Foci:
 
