@@ -1,4 +1,6 @@
 ###  👋 Hi there! 
+
+My name is Bo Tian, a data scientist at CrowdDoing, and I am currently looking for a full-time work in the data science field in the U.S.
  
 ### 💥 Recent Interest:
 
