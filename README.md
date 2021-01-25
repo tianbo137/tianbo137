@@ -1,6 +1,6 @@
  Hi there! This is Bo Tian.
  
-### Recent Foci:
+### Recent Interest:
 
 - Collaborating with Data Scientists at CrwodDoing to complete a MVP for medicinal-food product recommendation system and deploy it on Microsoft Azure to help potential patients 
 - Learning more about building big data pipeline and machine learning model deployment on cloud environment, e.g. AWS and GCP
