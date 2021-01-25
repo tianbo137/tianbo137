@@ -10,7 +10,7 @@ My name is Bo Tian, a data scientist at CrowdDoing, and I am currently looking f
 
 
 
-### &#x260e; Find More:
+### &#x260e; More Info:
 
 - [Data Science Portfolio](https://github.com/tianbo137/My_Portfolio)     
 - [Personal Blog](https://tianbo137.github.io/) 
