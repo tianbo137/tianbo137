@@ -1,8 +1,7 @@
 ###  👋 Hi there! 
 
-My name is Bo Tian, a data scientist at CrowdDoing. 
+My name is Bo Tian, a volunteer data scientist at CrowdDoing. 
 - I am currently looking for a full-time job as data scientist/machine learning engineer/data engineer in the U.S.
-- Plan to get certified as Google cloud data engineer in 2021
  
 ### 💥 Recent Foci:
 
