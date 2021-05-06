@@ -1,11 +1,11 @@
 ###  👋 Hi there! 
 
-My name is Bo Tian, a volunteer data scientist at CrowdDoing. 
-- I am currently looking for a full-time job as data scientist/machine learning engineer/data engineer in the U.S.
+My name is Bo Tian, a data scientist at Chubb. 
+
  
 ### 💥 Recent Foci:
 
-- Collaborating with Data Scientists at CrwodDoing to complete a MVP for medicinal-food product recommendation system and deploy it on Microsoft Azure to help potential patients 
+- Leaning with noisy labels 
 - Hands-on understanding of financial data and algorithmic trading 
 
 
